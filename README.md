@@ -1,2 +1,2 @@
 # reconhecimentoFacial
-Reconhecimento de Faces com Python e a biblioteca OpenCV
+Reconhecimento de Faces em uma imagem com Python e a biblioteca OpenCV, esse projeto foi realizado no Google Colab!
